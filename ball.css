@@ -4,9 +4,11 @@
 	padding: 0;
 }
 body {
-	background-color: #111;
+	background-color: #555;
 }
 
 #mycanvas {
 	background-color: #fff;
+	display: block;
+	margin: 0 auto;
 }
